@@ -1,5 +1,5 @@
 import {useEffect, useState} from "react";
-import {postLatest} from "../APIRequest/APIRequest.jsx";
+import {postLatest} from "../APIRequest/APIRequest.js";
 import Layout from "../Layout/Layout.jsx";
 
 const DetailsPage = () => {
